@@ -1,0 +1,18 @@
+"nUEs": 84
+"nRBs": 40
+"nMBS": 7
+"nPBS": 0
+"nFBS": 0
+"rMBS": 500
+"rPBS": 100
+"rFBS": 30
+"txpowerMBSdBm": 50
+"txpowerPBSdBm": 30
+"txpowerFBSdBm": 20
+"BW": 180000
+"N0": -174 #dBm  option: (-174dBm/hz, 180000Hz bandwidth) (-169dBm/hz, 10MHz bandwidth)
+"x_max": 2500
+"y_max": 2500
+"Nb" : 20 # max number of user associated by one BS
+"Nrb": 10 # max number of RBG occupied by one user
+"prt": 1,
