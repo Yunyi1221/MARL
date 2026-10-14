@@ -1,0 +1,3 @@
+numpy
+torch
+matplotlib  # 仅 plot.py 需要
