@@ -94,6 +94,7 @@ class ReplenishmentEnv:
 
         self.last_demand = demand
         self.last_filled = filled
+        self.last_lost = lost
         self.t += 1
         done = self.t >= cfg.horizon
         info = {
